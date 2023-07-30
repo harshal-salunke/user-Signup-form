@@ -1,0 +1,15 @@
+.company-info-container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.company-info-container h2 {
+  text-align: center;
+}
+
+.company-info-container p {
+  margin-bottom: 8px;
+}
